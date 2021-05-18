@@ -4,7 +4,7 @@
     <icon name="baggage" /> Books
     </div>
   <div class="p-4 text-base flex items-center text-justify bg-grey-100">
-    <p>Por aquí les dejo el enlace a mis dos (2) libros que he publicado a lo largo de mi carrera como Fullstack Developer.
+    <p>Por aquí les dejo el enlace a mis dos libros publicados.
       <button class="bg-blue-200 text-red-300 px-3 rounded" @click="readMore =! readMore">
         <span v-if="readMore">Leer -</span>
         <span v-else>Leer +</span>

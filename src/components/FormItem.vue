@@ -5,7 +5,7 @@
         <label class="block text-gray-700 text-sm font-bold mb-1">
           {{ data.k1 }}
         </label>
-        <p class="shadow appearance-none border rounded w-full py-2 px-3 bg-gray-200 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        <p class="shadow appearance-none border rounded w-full py-2 px-3 bg-gray-300 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
           {{ data.v1 }}
         </p>
       </div>
@@ -15,7 +15,7 @@
         <label class="block text-gray-700 text-sm font-bold mb-1">
           {{ data.k2 }}
         </label>
-        <p class="shadow appearance-none border rounded w-full py-2 px-3 bg-gray-200 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        <p class="shadow appearance-none border rounded w-full py-2 px-3 bg-gray-300 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
           {{ data.v2 }}
         </p>
       </div>    

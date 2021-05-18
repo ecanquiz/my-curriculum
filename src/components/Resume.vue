@@ -15,8 +15,9 @@
       <BeyondSkills v-if="ski"/>
       <BeyondKnowledges v-if="kno"/>
       <AgileDevelopments v-if="kno"/>
-      <Books v-if="kno"/>
       <Repositories v-if="kno"/>
+      <Books v-if="kno"/>
+      
                 
       <!--div class="pt-12 pb-8">
         <button class="bg-green-700 hover:bg-green-900 text-white font-bold py-2 px-4 rounded-full">

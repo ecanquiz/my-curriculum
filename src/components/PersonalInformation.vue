@@ -17,9 +17,9 @@
   
   <FormItem :data="{
     k1: 'Me apasiona',
-    v1: 'La música, especialmente la percusión (Batería, Timbal y Tumbadoras).',
+    v1: 'La música, especialmente percusión como Batería, Timbal y Tumbadoras.',
     k2: 'Mi Hobby',
-    v2: 'Hacer ejercicios y practicar deportes (Artes Marciales, Boxeo, Baloncesto, Béisbol y Futbol).'
+    v2: 'Practicar algún deporte y hacer ejercicios, preferiblemente al áire libre.'
   }"/>
 
   <!--FormItem :data="{
