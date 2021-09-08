@@ -1,6 +1,6 @@
 <template>
 <div class="bg-gray-300">
-<p class="p-4 text-justify">   
+<p class="p-4 text-left">   
      * Conocimientos
      <button class="bg-blue-200 text-red-300 px-3 rounded" @click="readMore =! readMore">
         <span v-if="readMore">Leer -</span>

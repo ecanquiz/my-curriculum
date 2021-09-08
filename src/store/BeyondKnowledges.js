@@ -5,11 +5,6 @@ export default {
       v1: 'Técnicas para resolver',
       v2: 'problemas comunes en el desarrollo de software y otros ámbitos referentes al diseño de interacción o interfaces.'        
     }, {
-      k: 'Docker',
-      h: 'https://es.wikipedia.org/wiki/Docker_(software)',
-      v1: 'Proyecto de código abierto que',
-      v2: 'automatiza el despliegue de aplicaciones dentro decontenedores de software, proporcionando una capa adicional de abstracción y automatización devirtualización de aplicaciones en múltiples sistemas operativos.'     
-    }, {
       k: 'Mocha',
       h: 'https://en.wikipedia.org/wiki/Jest_(JavaScript_framework)',
       v1: 'Marco de prueba de JavaScript',

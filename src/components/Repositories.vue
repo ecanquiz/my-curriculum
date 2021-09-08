@@ -1,6 +1,6 @@
 <template>
 <div class="bg-gray-300">
-  <div class="pt-4 text-base font-bold flex items-center text-justify bg-blue-100 border-b-2 border-red-200">
+  <div class="pt-4 text-base font-bold flex bg-blue-100 border-b-2 border-red-200">
     <icon name="baggage" /> Repositories
     <button class="bg-blue-200 text-red-300 px-3 rounded" @click="readMore1 =! readMore1">
         <span v-if="readMore1">Leer -</span>
@@ -30,6 +30,12 @@ export default {
     return {      
       readMore1: false,
       items: [{
+        k: 'Code Pen',
+        h: 'https://codepen.io/ejimenez123/'
+      },{
+        k: 'Code Wars',
+        h: 'https://www.codewars.com/users/ejimenez123'
+      },{
         k: 'Condominium Administration System',
         h: 'https://github.com/CaribesTIC/laravel-vue-condominium'
       },{
@@ -39,11 +45,8 @@ export default {
         k: 'Git Lab',
         h: 'https://gitlab.com/fdsoil/FDSoil'
       },{
-        k: 'Code Pen',
-        h: 'https://codepen.io/ejimenez123/'
-      },{
-        k: 'Code Wars',
-        h: 'https://www.codewars.com/users/ejimenez123'
+        k: 'Stack Overflow',
+        h: 'https://stackoverflow.com/users/16601080/'
       }]
     }
   }  

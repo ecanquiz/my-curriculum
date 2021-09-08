@@ -1,6 +1,6 @@
 <template> 
   <div class="flex" :class="n % 2 === 0 ? 'bg-blue-100' : 'bg-gray-200'">
-    <div class="w-full p-2">
+    <div class="w-full p-2 items-left text-left text-sm">
       <a
         class="font-normal text-blue-600 hover:text-blue-800 visited:text-purple-600"
         :href="data.h"

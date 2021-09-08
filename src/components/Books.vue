@@ -1,6 +1,6 @@
 <template>
 <div class="bg-gray-300">
-  <div class="pt-4 text-base font-bold flex items-center text-justify bg-blue-100 border-b-2 border-red-200">
+  <div class="pt-4 text-base font-bold flex bg-blue-100 border-b-2 border-red-200">
     <icon name="baggage" /> Books
     </div>
   <div class="p-4 text-base flex items-center text-justify bg-grey-100">

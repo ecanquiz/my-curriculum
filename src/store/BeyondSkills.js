@@ -5,6 +5,11 @@ export default {
       v1: 'Modelo ramificado de Git',
       v2: 'para que varios desarrolladores puedan trabajar en un mismo proyecto en forma ordenada y concurrente.'
     }, {
+      k: 'Docker',
+      h: 'https://es.wikipedia.org/wiki/Docker_(software)',
+      v1: 'Proyecto de código abierto que',
+      v2: 'automatiza el despliegue de aplicaciones dentro decontenedores de software, proporcionando una capa adicional de abstracción y automatización devirtualización de aplicaciones en múltiples sistemas operativos.'     
+    }, {
       k: 'Inertia',
       h: 'https://codigofacilito.com/articulos/que-es-inertiajs',
       v1: 'Nuevo enfoque para crear',

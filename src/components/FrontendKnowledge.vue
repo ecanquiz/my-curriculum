@@ -1,6 +1,6 @@
 <template> 
   <div class="flex" :class="n % 2 === 0 ? 'bg-blue-100' : 'bg-gray-200'">
-    <div class="w-1/4 p-2">
+    <div class="w-1/4 p-2 text-left text-sm">
       <a
         class="font-normal underline text-blue-600 hover:text-blue-800 visited:text-purple-600"
         :href="data.h"
@@ -8,7 +8,7 @@
           {{ data.k }}
       </a>
     </div>
-    <div class="w-1/2 p-2 text-gray-600 text-justify">
+    <div class="w-1/2 p-2 text-gray-600 text-left">
       {{ data.v1 }}
       <span v-if="readMore">{{ data.v2 }}</span><span v-else>...</span>      
     </div>

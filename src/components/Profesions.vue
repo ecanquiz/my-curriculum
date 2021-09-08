@@ -1,6 +1,6 @@
 <template>
 <div>
-  <p class="pt-4 text-base font-bold flex items-center text-justify bg-blue-100  border-b-2 border-red-200">
+  <p class="pt-4 text-base font-bold flex items-center text-left bg-blue-100  border-b-2 border-red-200">
     <icon name="baggage" />          
      Mi Profesión       
   </p>  
